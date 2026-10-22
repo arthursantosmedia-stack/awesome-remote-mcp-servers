@@ -1275,6 +1275,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Browse, search, move and share files in your own S3-compatible buckets (AWS S3, MinIO, IDrive e2).
 
 ### 💰 <a name="finance"></a>Finance
+- [Mestre Prático & NutriPreço](https://mestrepratico.com.br/developers) `https://mestrepratico.com.br/mcp/v1`
+  [![Mestre Prático MCP server](https://glama.ai/mcp/servers/arthursantosmedia-stack/mestrepratico-brazil-prices-mcp/badges/score.svg)](https://glama.ai/mcp/servers/arthursantosmedia-stack/mestrepratico-brazil-prices-mcp)
+  🔓 - Sovereign Brazilian macroeconomic, fuels, food basket and retail price intelligence for AI agents: ANP fuels & LPG (4,750+ stations), CMED medicines (26,635 presentations), SEFAZ NFC-e grocery basket, ANEEL energy, and ANTT freight tariffs.
+
 - [100pro Token Risk Screen](https://x402.rendraputra.dev/llms.txt) `https://x402.rendraputra.dev/mcp`
   [![100pro Token Risk Screen MCP connector](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rendraputra/100pro-token-risk)
   🔓 - Pre-trade risk screen for EVM and Solana tokens: honeypots, LP lock, holders; $0.05 via x402.
